@@ -3,6 +3,9 @@
 ###### FONTE:  [Becode](https://becode.com.br/principais-linguagens-de-programacao/)
 
 
+![SMDSM](https://auditeste.com.br/wp-content/uploads/2020/02/linguagens_2020.jpg)
+
+
 #### *Java*
 
 ##### No início da década de 90, um grupo de engenheiros dava início ao Projeto Green, na empresa Sun Microsystems (hoje pertencente à Oracle). A ideia era criar novas tecnologias que permitissem a comunicação entre diferentes dispositivos utilizados no dia a dia das pessoas, como televisão, vídeo cassete, aparelhos de TV a cabo, eletrodomésticos e entre outros.
