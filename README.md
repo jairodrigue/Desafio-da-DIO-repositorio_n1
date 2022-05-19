@@ -108,4 +108,5 @@
 
 ##### Em 2002, a linguagem passava a fazer parte da plataforma .NET da Microsoft, passando a ser chamada comumente de VB .NET. Para a empresa, tornar o VB um novo integrante da plataforma .NET foi uma forma eficaz de unir a produtividade oferecida pela linguagem aos poderosos recursos oferecidos pelo framework.
 
+
 ###### _Primeiro repositório referente ao desafio da DIO_
