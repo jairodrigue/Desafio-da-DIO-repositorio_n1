@@ -84,7 +84,7 @@
 
 ##### Inspirada em linguagens como Perl, LISP e SmallTalk, Ruby é utilizada principalmente no desenvolvimento de aplicações web.
 
-###### *Google Go*
+#### *Google Go*
 
 #### Go é uma linguagem de programação criada pela Google. Possui o propósito de aumentar a produtividade em projetos. A linguagem foi lançada em 2009, surgindo como solução para atender a diversas necessidades da empresa.
 
