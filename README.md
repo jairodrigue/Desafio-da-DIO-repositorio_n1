@@ -3,7 +3,7 @@
 ###### FONTE:  [Becode](https://becode.com.br/principais-linguagens-de-programacao/)
 
 
-![SMDSM](https://auditeste.com.br/wp-content/uploads/2020/02/linguagens_2020.jpg)
+![LINGUAGENS DE PROGRAMAÇÃO](https://auditeste.com.br/wp-content/uploads/2020/02/linguagens_2020.jpg)
 
 
 #### *Java*
