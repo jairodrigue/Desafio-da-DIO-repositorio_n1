@@ -3,7 +3,7 @@
 ###### FONTE:  [Becode](https://becode.com.br/principais-linguagens-de-programacao/)
 
 
-#### *Java
+#### *Java*
 
 ##### No início da década de 90, um grupo de engenheiros dava início ao Projeto Green, na empresa Sun Microsystems (hoje pertencente à Oracle). A ideia era criar novas tecnologias que permitissem a comunicação entre diferentes dispositivos utilizados no dia a dia das pessoas, como televisão, vídeo cassete, aparelhos de TV a cabo, eletrodomésticos e entre outros.
 
@@ -12,7 +12,7 @@
 ##### Atualmente ela é usada para diversos fins e está presente também em sistemas operacionais, dispositivos móveis, mainframes e por aí vai.
 
 
-#### *Linguagem C
+#### *Linguagem C*
 
 ##### Criada pelo cientista da computação Dennis Ritchie em 1972, a linguagem C é derivada das antigas ALGOL 68 e BCPL. Ela surgia da necessidade de escrever programas de maneira mais fácil que a linguagem Assembly (mais próxima do código de máquina e, portanto, mais complexa de se entender).
 
