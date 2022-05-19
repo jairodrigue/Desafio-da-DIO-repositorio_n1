@@ -104,14 +104,8 @@
 
 ##### O objetivo dos professores era criar uma linguagem para uso didático, mais simples de ser assimilada pelos estudantes. Assim, o BASIC, que havia sido inspirado em FORTRAN e ALGOL 60, ganhava cada vez mais popularidade, exatamente pela facilidade de aprendizado.
 
- #####Já na década de 90, depois de inúmeros trabalhos realizados com o Basic, a Microsoft lançava a primeira versão do Visual Basic, uma linguagem de programação orientada a objetos baseada em Basic que, dentre diversas funcionalidades, passou a contar com recursos para criar interfaces gráficas para o usuário.
+ ##### Já na década de 90, depois de inúmeros trabalhos realizados com o Basic, a Microsoft lançava a primeira versão do Visual Basic, uma linguagem de programação orientada a objetos baseada em Basic que, dentre diversas funcionalidades, passou a contar com recursos para criar interfaces gráficas para o usuário.
 
 ##### Em 2002, a linguagem passava a fazer parte da plataforma .NET da Microsoft, passando a ser chamada comumente de VB .NET. Para a empresa, tornar o VB um novo integrante da plataforma .NET foi uma forma eficaz de unir a produtividade oferecida pela linguagem aos poderosos recursos oferecidos pelo framework.
-
-
-
-
-
-
 
 ###### _Primeiro repositório referente ao desafio da DIO_
